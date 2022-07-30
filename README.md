@@ -1,4 +1,4 @@
-# Notas
+# Tabla de Multiplicar
 
 Aplicación de consola en Nodejs
 
